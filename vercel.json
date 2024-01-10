@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/docs",
-      "destination": "https://vercel.com/docs/projects/project-configuration#redirects"
+      "source": "/posti1",
+      "destination": "https://ceeden.com/donal-trump-talked-about-the-reason-why-melania-trump-was-missing-in-the-family-christmas-photo/"
     },
     {
       "source": "/github/:username*",
